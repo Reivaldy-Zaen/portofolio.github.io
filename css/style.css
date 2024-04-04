@@ -50,7 +50,7 @@ body{
 .button a{
     text-decoration: none;
     font-size: 1rem;
-    color: black;
+    color: blue;
 }
 
 @media screen and (max-width:574px){
@@ -66,5 +66,6 @@ body{
     
     .button a{
         font-size: .5rem;
+        
     }
 }
