@@ -275,6 +275,7 @@ nav ul li a:hover::after {
 
 .contact-right {
     flex-basis: 60%;
+    color: red;
 }
 
 .contact-left p {
